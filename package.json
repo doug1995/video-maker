@@ -15,5 +15,8 @@
     "url": "https://github.com/doug1995/video-maker/issues"
   },
   "homepage": "https://github.com/doug1995/video-maker#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
